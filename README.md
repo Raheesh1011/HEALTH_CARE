@@ -43,3 +43,4 @@ appointments directly through the system. Patients can select their preferred he
 an available time slot, and make the payment securely within the application. This feature eliminates the
 need for manual booking and payment processes, enhancing convenience for both patients and
 healthcare providers.
+# HEALTH_CARE
